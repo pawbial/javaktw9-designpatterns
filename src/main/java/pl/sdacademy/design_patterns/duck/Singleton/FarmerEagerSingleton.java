@@ -2,15 +2,19 @@ package pl.sdacademy.design_patterns.duck.Singleton;
 
 
 import pl.sdacademy.design_patterns.duck.Duck;
+import pl.sdacademy.design_patterns.duck.Veterinary.ContactToVet;
 
 import java.util.ArrayList;
 import java.util.Collections;
+import java.util.Date;
 import java.util.List;
 
 public class FarmerEagerSingleton {
 
 
     private List <Duck> duckList;
+
+    private ContactToVet contactToVet;
 
 
 
@@ -22,8 +26,15 @@ public class FarmerEagerSingleton {
     }
 
     private FarmerEagerSingleton () {
+        System.out.println(new Date() + " - Farmer is initializing");
         ArrayList<Duck> notSyncedList = new ArrayList<>();
         duckList = Collections.synchronizedList(notSyncedList);
+        contactToVet = new ContactToVet();
+        System.out.println(new Date() + " - Farmer was initialized");
+    }
+
+    public void askVet () {
+        contactToVet.callVet();
     }
 
     public boolean addDuck (Duck duck) {

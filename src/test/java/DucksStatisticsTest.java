@@ -1,11 +1,10 @@
 import org.junit.Assert;
 import org.junit.Test;
 import pl.sdacademy.design_patterns.duck.Duck;
-import pl.sdacademy.design_patterns.duck.Strategy.*;
+import pl.sdacademy.design_patterns.duck.DuckStatistics;
 
 import java.util.ArrayList;
 import java.util.List;
-import java.util.Optional;
 
 import static org.mockito.Mockito.doReturn;
 import static org.mockito.Mockito.mock;

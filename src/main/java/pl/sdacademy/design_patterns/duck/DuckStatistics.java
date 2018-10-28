@@ -1,4 +1,4 @@
-package pl.sdacademy.design_patterns.duck.Strategy;
+package pl.sdacademy.design_patterns.duck;
 
 import pl.sdacademy.design_patterns.duck.Duck;
 
