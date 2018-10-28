@@ -83,6 +83,14 @@ public class Main {
 //        duckCoop.register(greenWingedTealDuck);
         mallardDuck.layEgg();
 
+        System.out.println("=======");
+
+        DuckFactory duckFactory = new DuckFactory();
+
+        Duck mallardDuck1 = duckFactory.createDuck(DuckType.MALLARDDUCK);
+        Duck greenWingedTealDuck1 = duckFactory.createDuck(DuckType.GREENWINGEDTEALDUCK);
+        Duck rubberDuck1 = duckFactory.createDuck(DuckType.RUBBERDUCK);
+
 
 
     }
