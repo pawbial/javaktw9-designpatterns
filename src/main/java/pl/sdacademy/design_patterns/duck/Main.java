@@ -74,7 +74,14 @@ public class Main {
         System.out.println("=======");
         farmer.askVet();
 
+        System.out.println("=========");
 
+        DuckCoop duckCoop = new DuckCoop();
+        mallardDuck.walkToDuckCoop(duckCoop);
+        greenWingedTealDuck.walkToDuckCoop(duckCoop);
+//        duckCoop.register(mallardDuck);
+//        duckCoop.register(greenWingedTealDuck);
+        mallardDuck.layEgg();
 
 
 

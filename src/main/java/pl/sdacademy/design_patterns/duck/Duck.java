@@ -12,6 +12,11 @@ public interface Duck {
 
     Integer duckAge ();
 
+    DuckEgg layEgg ();
+
+    void walkToDuckCoop (DuckCoop coop);
+
+    void notifyAboutEgg(DuckEgg egg);
 
 
 

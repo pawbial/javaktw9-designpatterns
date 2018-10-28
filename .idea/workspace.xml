@@ -2,13 +2,17 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="e9092ea9-c034-48e6-b0b6-13c54cec7b1d" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/pl/sdacademy/design_patterns/duck/Duck.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/pl/sdacademy/design_patterns/duck/Duck.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/pl/sdacademy/design_patterns/duck/GreenWingedTealDuck.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/pl/sdacademy/design_patterns/duck/GreenWingedTealDuck.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/pl/sdacademy/design_patterns/duck/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/pl/sdacademy/design_patterns/duck/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/pl/sdacademy/design_patterns/duck/Singleton/FarmerEagerSingleton.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/pl/sdacademy/design_patterns/duck/Singleton/FarmerEagerSingleton.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/pl/sdacademy/design_patterns/duck/Strategy/DuckStatistics.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/pl/sdacademy/design_patterns/duck/DuckStatistics.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/pl/sdacademy/design_patterns/duck/Strategy/Fodder.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/pl/sdacademy/design_patterns/duck/Fodder.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/DucksStatisticsTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/DucksStatisticsTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/pl/sdacademy/design_patterns/duck/MallardDuck.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/pl/sdacademy/design_patterns/duck/MallardDuck.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/pl/sdacademy/design_patterns/duck/RubberDuck.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/pl/sdacademy/design_patterns/duck/RubberDuck.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/pl/sdacademy/design_patterns/duck/Duck.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/pl/sdacademy/design_patterns/duck/Duck.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/pl/sdacademy/design_patterns/duck/GreenWingedTealDuck.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/pl/sdacademy/design_patterns/duck/GreenWingedTealDuck.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/pl/sdacademy/design_patterns/duck/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/pl/sdacademy/design_patterns/duck/Main.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/pl/sdacademy/design_patterns/duck/MallardDuck.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/pl/sdacademy/design_patterns/duck/MallardDuck.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/pl/sdacademy/design_patterns/duck/RubberDuck.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/pl/sdacademy/design_patterns/duck/RubberDuck.class" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
@@ -29,26 +33,26 @@
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
           <entry key="dummy" value="32" />
-          <entry key="java" value="4192" />
+          <entry key="java" value="5202" />
           <entry key="xml" value="15" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="JAVA" value="4192" />
+          <entry key="JAVA" value="5202" />
           <entry key="PLAIN_TEXT" value="32" />
           <entry key="XML" value="15" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
-          <entry key="java" value="54" />
+          <entry key="java" value="64" />
           <entry key="xml" value="1" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
-          <entry key="JAVA" value="54" />
+          <entry key="JAVA" value="64" />
           <entry key="XML" value="1" />
         </counts>
       </usages-collector>
@@ -57,54 +61,53 @@
   <component name="FileEditorManager">
     <leaf>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/pl/sdacademy/design_patterns/duck/RubberDuck.java">
+        <entry file="file://$PROJECT_DIR$/src/main/java/pl/sdacademy/design_patterns/duck/DuckCoop.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="136">
-              <caret line="8" column="38" selection-start-line="8" selection-start-column="38" selection-end-line="8" selection-end-column="38" />
+            <state relative-caret-position="124">
+              <caret line="19" column="5" lean-forward="true" selection-start-line="19" selection-start-column="5" selection-end-line="19" selection-end-column="5" />
               <folding>
                 <element signature="imports" expanded="true" />
-                <element signature="e#550#551#0" expanded="true" />
-                <element signature="e#590#591#0" expanded="true" />
-                <element signature="e#751#752#0" expanded="true" />
-                <element signature="e#799#800#0" expanded="true" />
-                <element signature="e#845#846#0" expanded="true" />
-                <element signature="e#899#900#0" expanded="true" />
+                <element signature="e#188#189#0" expanded="true" />
+                <element signature="e#235#236#0" expanded="true" />
+                <element signature="e#202#203#0" expanded="true" />
+                <element signature="e#240#241#0" expanded="true" />
+                <element signature="e#286#287#0" expanded="true" />
+                <element signature="e#327#328#0" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/pl/sdacademy/design_patterns/duck/Veterinary/Vet.java">
+        <entry file="file://$PROJECT_DIR$/src/main/java/pl/sdacademy/design_patterns/duck/Duck.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="323">
-              <caret line="19" lean-forward="true" selection-start-line="19" selection-end-line="19" />
+            <state relative-caret-position="158">
+              <caret line="21" lean-forward="true" selection-start-line="21" selection-end-line="21" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/pl/sdacademy/design_patterns/duck/MallardDuck.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="192">
+              <caret line="58" column="5" lean-forward="true" selection-start-line="58" selection-start-column="5" selection-end-line="58" selection-end-column="5" />
               <folding>
-                <element signature="e#109#110#0" expanded="true" />
-                <element signature="e#145#146#0" expanded="true" />
+                <element signature="imports" expanded="true" />
+                <element signature="e#828#829#0" expanded="true" />
+                <element signature="e#860#861#0" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/pl/sdacademy/design_patterns/duck/Veterinary/ContactToVet.java">
+        <entry file="file://$PROJECT_DIR$/src/main/java/pl/sdacademy/design_patterns/duck/GreenWingedTealDuck.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="170">
-              <caret line="10" column="39" selection-start-line="10" selection-start-column="39" selection-end-line="10" selection-end-column="39" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/pl/sdacademy/design_patterns/duck/Singleton/FarmerEagerSingleton.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="289">
-              <caret line="36" column="31" selection-start-line="36" selection-start-column="31" selection-end-line="36" selection-end-column="31" />
+            <state relative-caret-position="447">
+              <caret line="70" column="1" lean-forward="true" selection-start-line="70" selection-start-column="1" selection-end-line="70" selection-end-column="1" />
               <folding>
                 <element signature="imports" expanded="true" />
-                <element signature="e#956#957#0" expanded="true" />
-                <element signature="e#983#984#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -113,8 +116,17 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/main/java/pl/sdacademy/design_patterns/duck/Main.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1037">
-              <caret line="61" column="24" selection-start-line="61" selection-start-column="24" selection-end-line="61" selection-end-column="24" />
+            <state relative-caret-position="1241">
+              <caret line="73" column="38" lean-forward="true" selection-start-line="73" selection-start-column="38" selection-end-line="73" selection-end-column="38" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/pl/sdacademy/design_patterns/duck/DuckEgg.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="124">
+              <caret line="36" column="34" selection-start-line="36" selection-start-column="34" selection-end-line="36" selection-end-column="34" />
             </state>
           </provider>
         </entry>
@@ -148,21 +160,22 @@
         <option value="$PROJECT_DIR$/src/main/java/pl/sdacademy/design_patterns/duck/Strategy/SqueakNotQuacking.java" />
         <option value="$PROJECT_DIR$/src/main/java/pl/sdacademy/design_patterns/duck/Strategy/Floating.java" />
         <option value="$PROJECT_DIR$/src/main/java/pl/sdacademy/design_patterns/duck/Strategy/DuckEgg.java" />
-        <option value="$PROJECT_DIR$/src/main/java/pl/sdacademy/design_patterns/duck/DuckEgg.java" />
         <option value="$PROJECT_DIR$/src/main/java/pl/sdacademy/design_patterns/duck/Strategy/Fodder.java" />
         <option value="$PROJECT_DIR$/src/main/java/pl/sdacademy/design_patterns/duck/Farmer.java" />
-        <option value="$PROJECT_DIR$/src/main/java/pl/sdacademy/design_patterns/duck/Duck.java" />
-        <option value="$PROJECT_DIR$/src/main/java/pl/sdacademy/design_patterns/duck/GreenWingedTealDuck.java" />
-        <option value="$PROJECT_DIR$/src/main/java/pl/sdacademy/design_patterns/duck/MallardDuck.java" />
-        <option value="$PROJECT_DIR$/src/main/java/pl/sdacademy/design_patterns/duck/RubberDuck.java" />
         <option value="$PROJECT_DIR$/src/main/java/DucksStatistics.java" />
         <option value="$PROJECT_DIR$/pom.xml" />
         <option value="$PROJECT_DIR$/src/main/java/pl/sdacademy/design_patterns/duck/Strategy/DuckStatistics.java" />
         <option value="$PROJECT_DIR$/src/test/java/DucksStatisticsTest.java" />
         <option value="$PROJECT_DIR$/src/main/java/pl/sdacademy/design_patterns/duck/Veterinary/ContactToVet.java" />
-        <option value="$PROJECT_DIR$/src/main/java/pl/sdacademy/design_patterns/duck/Veterinary/Vet.java" />
         <option value="$PROJECT_DIR$/src/main/java/pl/sdacademy/design_patterns/duck/Singleton/FarmerEagerSingleton.java" />
+        <option value="$PROJECT_DIR$/src/main/java/pl/sdacademy/design_patterns/duck/Veterinary/Vet.java" />
+        <option value="$PROJECT_DIR$/src/main/java/pl/sdacademy/design_patterns/duck/Duck.java" />
+        <option value="$PROJECT_DIR$/src/main/java/pl/sdacademy/design_patterns/duck/DuckEgg.java" />
+        <option value="$PROJECT_DIR$/src/main/java/pl/sdacademy/design_patterns/duck/DuckCoop.java" />
+        <option value="$PROJECT_DIR$/src/main/java/pl/sdacademy/design_patterns/duck/RubberDuck.java" />
         <option value="$PROJECT_DIR$/src/main/java/pl/sdacademy/design_patterns/duck/Main.java" />
+        <option value="$PROJECT_DIR$/src/main/java/pl/sdacademy/design_patterns/duck/GreenWingedTealDuck.java" />
+        <option value="$PROJECT_DIR$/src/main/java/pl/sdacademy/design_patterns/duck/MallardDuck.java" />
       </list>
     </option>
   </component>
@@ -255,18 +268,6 @@
               <item name="designpatterns" type="b2602c69:ProjectViewProjectNode" />
               <item name="DesignPatterns" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="pl" type="462c0819:PsiDirectoryNode" />
-              <item name="sdacademy" type="462c0819:PsiDirectoryNode" />
-              <item name="design_patterns" type="462c0819:PsiDirectoryNode" />
-              <item name="duck" type="462c0819:PsiDirectoryNode" />
-              <item name="Veterinary" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="designpatterns" type="b2602c69:ProjectViewProjectNode" />
-              <item name="DesignPatterns" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="test" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
@@ -285,8 +286,8 @@
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="SearchEverywhereHistoryKey" value="DuckS&#9;PSI&#9;JAVA://DucksStatisticsTest" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1540715731780" />
+    <property name="SearchEverywhereHistoryKey" value="Duck&#9;PSI&#9;JAVA://pl.sdacademy.design_patterns.duck.Duck&#10;DuckS&#9;PSI&#9;JAVA://DucksStatisticsTest" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1540722227776" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.15" />
@@ -295,6 +296,7 @@
   </component>
   <component name="RecentsManager">
     <key name="CreateClassDialog.RecentsKey">
+      <recent name="pl.sdacademy.design_patterns.duck" />
       <recent name="pl.sdacademy.design_patterns.duck.Strategy.*;" />
       <recent name="" />
     </key>
@@ -413,7 +415,7 @@
       <window_info anchor="bottom" id="Event Log" side_tool="true" />
       <window_info anchor="bottom" id="Messages" weight="0.3289689" />
       <window_info anchor="bottom" id="Message" order="0" />
-      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.3289689" />
       <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.3289689" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
@@ -428,6 +430,34 @@
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
     </layout>
+    <layout-to-restore>
+      <window_info id="Image Layers" order="0" />
+      <window_info id="Designer" order="1" />
+      <window_info id="UI Designer" order="2" />
+      <window_info id="Capture Tool" order="3" />
+      <window_info id="Favorites" order="4" side_tool="true" />
+      <window_info active="true" content_ui="combo" id="Project" order="5" visible="true" weight="0.24962178" />
+      <window_info id="Structure" order="6" side_tool="true" weight="0.25" />
+      <window_info anchor="bottom" id="Version Control" order="0" />
+      <window_info anchor="bottom" id="Terminal" order="1" weight="0.3289689" />
+      <window_info anchor="bottom" id="Event Log" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Messages" order="3" weight="0.3289689" />
+      <window_info anchor="bottom" id="Message" order="4" />
+      <window_info anchor="bottom" id="Find" order="5" visible="true" weight="0.3289689" />
+      <window_info anchor="bottom" id="Run" order="6" weight="0.3289689" />
+      <window_info anchor="bottom" id="Debug" order="7" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="8" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="9" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="10" />
+      <window_info anchor="right" id="Palette" order="0" />
+      <window_info anchor="right" id="Capture Analysis" order="1" />
+      <window_info anchor="right" id="Theme Preview" order="2" />
+      <window_info anchor="right" id="Palette&#9;" order="3" />
+      <window_info anchor="right" id="Maven Projects" order="4" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="5" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="6" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="7" weight="0.25" />
+    </layout-to-restore>
   </component>
   <component name="VcsContentAnnotationSettings">
     <option name="myLimit" value="2678400000" />
@@ -539,81 +569,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/pl/sdacademy/design_patterns/duck/Duck.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="204">
-          <caret line="12" column="23" selection-start-line="12" selection-start-column="23" selection-end-line="12" selection-end-column="23" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/pl/sdacademy/design_patterns/duck/DuckEgg.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="714">
-          <caret line="42" selection-start-line="42" selection-end-line="42" />
-          <folding>
-            <element signature="e#431#432#0" expanded="true" />
-            <element signature="e#464#465#0" expanded="true" />
-            <element signature="e#502#503#0" expanded="true" />
-            <element signature="e#536#537#0" expanded="true" />
-            <element signature="e#574#575#0" expanded="true" />
-            <element signature="e#608#609#0" expanded="true" />
-            <element signature="e#734#735#0" expanded="true" />
-            <element signature="e#786#787#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/pl/sdacademy/design_patterns/duck/GreenWingedTealDuck.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="34">
-          <caret line="2" selection-start-line="2" selection-end-line="2" selection-end-column="52" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#492#493#0" expanded="true" />
-            <element signature="e#532#533#0" expanded="true" />
-            <element signature="e#572#573#0" expanded="true" />
-            <element signature="e#612#613#0" expanded="true" />
-            <element signature="e#743#744#0" expanded="true" />
-            <element signature="e#770#771#0" expanded="true" />
-            <element signature="e#816#817#0" expanded="true" />
-            <element signature="e#843#844#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/pom.xml">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="335">
           <caret line="86" lean-forward="true" selection-start-line="86" selection-end-line="86" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/pl/sdacademy/design_patterns/duck/MallardDuck.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="51">
-          <caret line="3" selection-start-line="3" selection-end-line="3" selection-end-column="52" />
-          <folding>
-            <element signature="e#821#822#0" expanded="true" />
-            <element signature="e#869#870#0" expanded="true" />
-            <element signature="e#915#916#0" expanded="true" />
-            <element signature="e#969#970#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/pl/sdacademy/design_patterns/duck/RubberDuck.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="136">
-          <caret line="8" column="38" selection-start-line="8" selection-start-column="38" selection-end-line="8" selection-end-column="38" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#550#551#0" expanded="true" />
-            <element signature="e#590#591#0" expanded="true" />
-            <element signature="e#751#752#0" expanded="true" />
-            <element signature="e#799#800#0" expanded="true" />
-            <element signature="e#845#846#0" expanded="true" />
-            <element signature="e#899#900#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -634,21 +593,21 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/pl/sdacademy/design_patterns/duck/Veterinary/ContactToVet.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="170">
+          <caret line="10" column="39" selection-start-line="10" selection-start-column="39" selection-end-line="10" selection-end-column="39" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/pl/sdacademy/design_patterns/duck/Veterinary/Vet.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="323">
+        <state relative-caret-position="260">
           <caret line="19" lean-forward="true" selection-start-line="19" selection-end-line="19" />
           <folding>
             <element signature="e#109#110#0" expanded="true" />
             <element signature="e#145#146#0" expanded="true" />
           </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/pl/sdacademy/design_patterns/duck/Veterinary/ContactToVet.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="170">
-          <caret line="10" column="39" selection-start-line="10" selection-start-column="39" selection-end-line="10" selection-end-column="39" />
         </state>
       </provider>
     </entry>
@@ -664,10 +623,72 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/pl/sdacademy/design_patterns/duck/RubberDuck.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="192">
+          <caret line="60" column="53" selection-start-line="60" selection-start-column="53" selection-end-line="60" selection-end-column="53" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/pl/sdacademy/design_patterns/duck/GreenWingedTealDuck.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="447">
+          <caret line="70" column="1" lean-forward="true" selection-start-line="70" selection-start-column="1" selection-end-line="70" selection-end-column="1" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/pl/sdacademy/design_patterns/duck/MallardDuck.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="192">
+          <caret line="58" column="5" lean-forward="true" selection-start-line="58" selection-start-column="5" selection-end-line="58" selection-end-column="5" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#828#829#0" expanded="true" />
+            <element signature="e#860#861#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/pl/sdacademy/design_patterns/duck/DuckCoop.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="124">
+          <caret line="19" column="5" lean-forward="true" selection-start-line="19" selection-start-column="5" selection-end-line="19" selection-end-column="5" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#188#189#0" expanded="true" />
+            <element signature="e#235#236#0" expanded="true" />
+            <element signature="e#202#203#0" expanded="true" />
+            <element signature="e#240#241#0" expanded="true" />
+            <element signature="e#286#287#0" expanded="true" />
+            <element signature="e#327#328#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/pl/sdacademy/design_patterns/duck/Duck.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="158">
+          <caret line="21" lean-forward="true" selection-start-line="21" selection-end-line="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/pl/sdacademy/design_patterns/duck/DuckEgg.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="124">
+          <caret line="36" column="34" selection-start-line="36" selection-start-column="34" selection-end-line="36" selection-end-column="34" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/pl/sdacademy/design_patterns/duck/Main.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1037">
-          <caret line="61" column="24" selection-start-line="61" selection-start-column="24" selection-end-line="61" selection-end-column="24" />
+        <state relative-caret-position="1241">
+          <caret line="73" column="38" lean-forward="true" selection-start-line="73" selection-start-column="38" selection-end-line="73" selection-end-column="38" />
         </state>
       </provider>
     </entry>
